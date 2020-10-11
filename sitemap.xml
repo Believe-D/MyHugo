@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/categories/</loc>
+    <lastmod>2020-10-01T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/categories/Cool/</loc>
+    <lastmod>2020-10-01T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/tags/cool/</loc>
+    <lastmod>2020-10-01T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/post/</loc>
+    <lastmod>2020-10-01T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/tags/</loc>
+    <lastmod>2020-10-01T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/post/firstPage/</loc>
+    <lastmod>2020-10-01T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/about/</loc>
+    <lastmod>2020-10-01T00:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/</loc>
+    <lastmod>2020-10-01T00:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://believe-d.github.io/MyHugo/search/</loc>
+  </url>
+  
+</urlset>
